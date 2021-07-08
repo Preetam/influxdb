@@ -1,3 +1,3 @@
 source "https://rubygems.org"
 
-gem 'fpm'
+gem 'fpm', '>= 0.4.42'
